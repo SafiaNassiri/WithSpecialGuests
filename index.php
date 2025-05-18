@@ -47,17 +47,7 @@
           <div class="contact-group" style="white-space: nowrap;">
             <strong>Email:</strong> <a href="mailto:WithSpecialGuests@gmail.com">WithSpecialGuests@gmail.com</a>
           </div>
-
-          <!-- 
-          <div class="contact-group">
-            <strong>Follow Us:</strong>
-            <a href="https://www.instagram.com/with_special_guests/">Instagram</a> | 
-            <a href="https://www.youtube.com/channel/UC02LUQQ1jD4qYK9xmIN0F2A">YouTube</a> | 
-            <a href="#">TikTok</a>
-          </div>
-          -->
         </div>
-
       </div>
     </div>
 
