@@ -1,0 +1,24 @@
+PALETTE 1:
+
+Wine: #5A3235ff
+
+Rich Black: #0D1A29ff
+
+Platinum: #EAE7E2ff
+
+Rich Black 2: #142231ff
+
+Buff: #DBAC86ff
+
+
+PALETTE 2:
+
+Paynes Gray: #525B66ff
+
+Davys Gray: #515450ff
+
+Silver: #CCCCCBff
+
+French Gray: #A9ADB5ff
+
+Dim Gray: #6C6E6Dff
