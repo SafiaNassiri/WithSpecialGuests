@@ -12,7 +12,7 @@ Stay connected and follow **With Special Guests** on your favorite platforms:
 
 - [Instagram](https://www.instagram.com/with_special_guests?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - [Tiktok - TBD](tmp)
-- [YouTube]([[https://youtube.com/WithSpecialGuests](https://youtube.com/channel/UC02LUQQ1jD4qYK9xmIN0F2A?si=D-BFlOh2TrYENfEg)](https://www.youtube.com/channel/UC02LUQQ1jD4qYK9xmIN0F2A))
+- [YouTube](https://www.youtube.com/channel/UC02LUQQ1jD4qYK9xmIN0F2A)
 - [BandCamp](https://withspecialguests.bandcamp.com/album/demos-take-1?fbclid=PAZXh0bgNhZW0CMTEAAacClGGmN0LJf9BBkv5E1BKgSCyguqsIiX7coTmPtyxabI0nB8ccpcHMIz1H9Q_aem_-KCT-83aIXBPLvqNlSNb9g)
 
 ## Features
