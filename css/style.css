@@ -199,11 +199,18 @@ iframe {
   text-shadow: none;
 }
 
+.contact-group {
+  display: flex;
+  align-items: center;
+  /* Increase gap to create more space like a tab */
+  gap: 2em; /* or adjust as you like */
+}
+
 .contact-group strong {
   color: var(--platinum);
   font-weight: 700;
-  margin-bottom: 12px;
-  display: block;
+  margin-bottom: 0;
+  margin-right: 2em;
   text-shadow: none;
 }
 
@@ -216,7 +223,7 @@ iframe {
 }
 
 .contact-group a:hover {
-  color: var(--buff);
+  color: var(--wine);
   text-shadow: none;
   text-decoration: underline;
 }

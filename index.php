@@ -44,10 +44,10 @@
 
         <div class="contact-section">
           <h2>Contact Us</h2>
-          <div class="contact-group">
-            <strong>Email:</strong>
-            <a href="mailto:WithSpecialGuests@gmail.com">WithSpecialGuests@gmail.com</a>
+          <div class="contact-group" style="white-space: nowrap;">
+            <strong>Email:</strong> <a href="mailto:WithSpecialGuests@gmail.com">WithSpecialGuests@gmail.com</a>
           </div>
+
           <!-- 
           <div class="contact-group">
             <strong>Follow Us:</strong>
