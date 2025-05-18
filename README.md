@@ -27,7 +27,7 @@ Stay connected and follow **With Special Guests** on your favorite platforms:
 
 Thank you for visiting the With Special Guests website! Rock on! 🤘
 
-###Inspiration Websites:
+### Inspiration Websites:
 - [Dance Gavin Dance](https://dancegavindanceband.com/)
 - [Eidola](https://eidolaband.com/)
 - [Periphery](https://periphery.net/index.html#music)
