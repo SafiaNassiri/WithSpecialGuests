@@ -63,9 +63,9 @@
 
     <footer>
       <div class="social-links">
-        <a href="#">Instagram</a>
-        <a href="#">Twitter</a>
-        <a href="#">YouTube</a>
+        <a href="https://www.instagram.com/with_special_guests/">Instagram</a>
+        <a href="https://withspecialguests.bandcamp.com/album/demos-take-1?fbclid=PAZXh0bgNhZW0CMTEAAacClGGmN0LJf9BBkv5E1BKgSCyguqsIiX7coTmPtyxabI0nB8ccpcHMIz1H9Q_aem_-KCT-83aIXBPLvqNlSNb9g">BandCamp</a>
+        <a href="https://www.youtube.com/channel/UC02LUQQ1jD4qYK9xmIN0F2A">YouTube</a>
       </div>
       <p>&copy; 2025 With Special Guests. All rights reserved.</p>
     </footer>
